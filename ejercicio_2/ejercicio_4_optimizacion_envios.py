@@ -26,6 +26,15 @@ model.add_constraint(PB+QB == 5)
 model.add_constraint(PC+QC == 4)
 
 
+
+model.add_constraint(PA>=0)
+model.add_constraint(PB>=0)
+model.add_constraint(PC>=0)
+model.add_constraint(QA>=0)
+model.add_constraint(QB>=0)
+model.add_constraint(QC>=0)
+
+
 solucion = model.solve()
 print('\n', '*'*40, '\n')
 print(solucion)

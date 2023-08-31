@@ -1,0 +1,69 @@
+## Ejercicio 1:
+
+**************************************** 
+
+solution for: Aplicación Herbicidas
+objective: 495000
+status: OPTIMAL_SOLUTION(2)
+X=30
+Y=20
+
+**************************************** 
+
+Cantidad de cultivo X: 30
+Cantidad de cultivo Y: 20
+Cantidad de ganancia máxima: $ 495000.0
+
+## Ejercicio 2
+
+ **************************************** 
+
+solution for: Procesos de Manufactura
+objective: 168000
+status: OPTIMAL_SOLUTION(2)
+A=12
+B=6
+
+**************************************** 
+
+Cantidad de A: 12
+Cantidad de B: 6
+La ganancia máxima por semana: $ 168000.0
+
+## Ejercicio 3
+
+**************************************** 
+
+solution for: Problema Dieta
+objective: 150
+status: OPTIMAL_SOLUTION(2)
+P=15
+Q=20
+
+**************************************** 
+
+Cantidad de alimento P: 15
+Cantidad de alimento Q: 20
+Cantidad mínima de vitamina A:  150
+
+## Ejercicio 4
+
+ **************************************** 
+
+solution for: Optimización envíos
+objective: 1550
+status: OPTIMAL_SOLUTION(2)
+PB=5
+PC=3
+QA=5
+QC=1
+
+**************************************** 
+
+Cantidad de unidades transportadas de la fábrica P al deposito A: 0
+Cantidad de unidades transportadas de la fábrica P al deposito B: 5
+Cantidad de unidades transportadas de la fábrica P al deposito C: 3
+Cantidad de unidades transportadas de la fábrica Q al deposito A: 5
+Cantidad de unidades transportadas de la fábrica Q al deposito B: 0
+Cantidad de unidades transportadas de la fábrica Q al deposito C: 1
+Costo mínimo del transporte: $ 1550.0
