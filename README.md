@@ -11,7 +11,7 @@ Ejercicio 1:
 - [X] Generación de modelo básico
 - [X] Busqueda de nuevas features
 - [X] Generación de modelo complejo
-- [] Agregar features de flujo de vehículos y distancia a estación de subte más cercana
+- [ ] Agregar features de flujo de vehículos y distancia a estación de subte más cercana
 - [X] Responder preguntas
 Ejercicio 2:
 
